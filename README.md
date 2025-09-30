@@ -71,7 +71,6 @@ This is called budget tracking but it's not as simple as it seems and you need a
 This workbook won't teach you how to get rich - it's not financial advice or an investment guide but rather something more practical than that. It's a tool that helps you understand where your money comes from and where it goes.
 
 As our financial lives have become more complicated with subscriptions, side hustles, and investment accounts, our ability to track everything has diminished. It used to be that people kept simple ledgers but today we need comprehensive systems to stay on top of our finances.
-
 It won't make you a millionaire tomorrow - there's nothing magical in here. But knowing where your money goes comes in handy when you're trying to save for something important. Or at the very least, you can pretend to be financially responsible in front of your friends.
 
 <br>
@@ -81,12 +80,7 @@ It won't make you a millionaire tomorrow - there's nothing magical in here. But 
 <br>
 
 <br>
-
-<br>
-
-<br>
-
-**You don't need to be a spreadsheet expert** to use this - there are color-coded sections and clear charts to do the heavy lifting. You just need to be committed to tracking your expenses.
+<i>You don't need to be a spreadsheet expert</i> to use this - there are color-coded sections and clear charts to do the heavy lifting. You just need to be committed to tracking your expenses.
 
 </td>
 </tr>
